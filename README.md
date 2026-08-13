@@ -1,4 +1,5 @@
 # ☕ Coffee Shop Sales Analysis (Excel)
+![Coffee Sales Dashboard](coffee-dashboard.png)
 ## 📌 Project Overview
 This project analyzes **149,000+ sales transactions** from a coffee shop chain across three store locations in New York (Astoria, Hell's Kitchen, and Lower Manhattan) to identify revenue drivers, peak operating hours, and top-performing product categories.
 
